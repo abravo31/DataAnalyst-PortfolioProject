@@ -1,11 +1,15 @@
 COVID-19 Data Analysis Portfolio
+
 Overview
+
 Welcome to my Data Analysis Portfolio focusing on COVID-19. This repository contains a collection of SQL queries and views that I have developed to analyze COVID-19 data. These resources are designed to be used in conjunction with Tableau to create an interactive and informative dashboard.
 
 Repository Contents
+
 SQL Queries and Views: Contains a series of SQL files with queries and views that extract key information from the COVID-19 dataset. These queries are optimized for performance and are structured to provide meaningful insights into the pandemic's trends and impacts.
 
-Tableau Dashboard: (Link or instructions to access the dashboard if it's hosted online). This dashboard visualizes the data extracted using the SQL queries. It provides an interactive interface for exploring and understanding the spread and impact of COVID-19 globally.
+Tableau Dashboard: (Link or instructions to access the dashboard if it's hosted online). 
+This dashboard visualizes the data extracted using the SQL queries. It provides an interactive interface for exploring and understanding the spread and impact of COVID-19 globally.
 
 Data Source
 The data used in this project is sourced from [source name, e.g., John Hopkins University, WHO, etc.]. It includes information on total cases, deaths, recoveries, and vaccination progress among other metrics, providing a comprehensive view of the pandemic.
