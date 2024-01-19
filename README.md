@@ -1,4 +1,4 @@
-# COVID-19 Data Analysis Portfolio
+# Data Analysis Portfolio
 
 ### Overview
 
