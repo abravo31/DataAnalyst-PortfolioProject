@@ -1,36 +1,33 @@
 # Data Analysis Portfolio
 
-### Overview
+## Overview
 
-Welcome to my Data Analysis Portfolio focusing on COVID-19. This repository contains a collection of SQL queries and views that I have developed to analyze COVID-19 data. These resources are designed to be used in conjunction with Tableau to create an interactive and informative dashboard.
+Welcome to my comprehensive Data Analysis Portfolio, where I delve into two critical areas: COVID-19 and property sales. This repository showcases my expertise in SQL and Tableau, offering a rich collection of SQL queries, views, and an interactive Tableau dashboard.
 
-### Repository Contents
+## Repository Contents
 
-SQL Queries and Views: Contains a series of SQL files with queries and views that extract key information from the COVID-19 dataset. These queries are optimized for performance and are structured to provide meaningful insights into the pandemic's trends and impacts.
+### SQL Queries and Views:
 
-Tableau Dashboard: (Link or instructions to access the dashboard if it's hosted online). 
-This dashboard visualizes the data extracted using the SQL queries. It provides an interactive interface for exploring and understanding the spread and impact of COVID-19 globally.
+* COVID-19 Analysis: Features a series of optimized SQL files focused on extracting key information from the COVID-19 dataset. These queries provide insights into pandemic trends and impacts.
+* Property Sales Data Cleaning: Includes specialized SQL queries for cleaning and organizing property sales data. These queries ensure data quality and reliability, essential for accurate analysis.
 
-Data Source
-The data used in this project is sourced from [source name, e.g., John Hopkins University, WHO, etc.]. It includes information on total cases, deaths, recoveries, and vaccination progress among other metrics, providing a comprehensive view of the pandemic.
+### Tableau Dashboard:
+COVID-19 Dashboard: [Link or instructions for access]. Visualizes COVID-19 data with an emphasis on global spread and impact. This interactive tool aids in exploring pandemic-related trends.
+Property Sales Insights: This section of the dashboard (link or access instructions) focuses on visualizing the property sales data, highlighting market trends, and sales patterns.
 
-Tools Used
-SQL: For data querying and manipulation.
-Tableau: For data visualization and dashboard creation.
+## Data Sources:
+COVID-19 Data: Sourced from [e.g., John Hopkins University, WHO]. Covers total cases, deaths, recoveries, and vaccination progress.
+Property Sales Data: Derived from [source name]. Provides comprehensive sales information, including transaction details, property values, and market trends.
+Tools Used:
+SQL: For querying, manipulating, and cleaning data.
+Tableau: For creating informative and interactive data visualizations.
 Objectives
-The primary objectives of this project are to:
-
-Analyze the spread of COVID-19 across different regions and countries.
-Understand the impact of the pandemic on various population groups.
-Visualize trends and patterns in the data through an interactive dashboard.
+Analyze COVID-19's spread across regions and countries, and its impact on various demographics.
+Clean and organize property sales data for precise market analysis.
+Utilize Tableau to reveal trends and patterns in both COVID-19 and property sales data.
 How to Use
-To explore the SQL queries and views:
-
-Clone this repository to your local machine.
-Open the SQL files using a SQL editor or import them into your preferred database management system.
-For the Tableau Dashboard:
-
-Access the dashboard through the provided link or download the Tableau file.
-Interact with the various elements of the dashboard to explore different aspects of the COVID-19 data.
+SQL Queries: Clone the repository, open SQL files in your preferred editor or database system.
+Tableau Dashboards: Access dashboards via provided links or download Tableau files to interact with data elements.
 Contributions
-Feedback, suggestions, and contributions are welcome. Please feel free to fork this repository and submit your contributions via pull requests.
+Your feedback, suggestions, and contributions are highly valued. Feel free to fork this repository and submit your contributions via pull requests.
+
